@@ -4,26 +4,6 @@
 
 
 
-```dart
-  final abdalrhmanreda = {
-    'email': 'abdalrhmanr444@gmail.com' as String,
-    'experience': 'More than 1.5 year' as String,
-    'education': 'Computer Science Graduated' as String,
-    'nationality': 'Egyptian' as String,
-    'pronouns': 'He' as String,
-    'code': ['Flutter', 'Dart', 'C++', 'C#', 'PHP', 'JavaScript', 'Python' , 'R' , "GDScript" ] as List<String>,
-    'askMeAbout': ['mobile dev', 'tech', 'content creator', "Game Dev" ] as List<String>,
-    'technologies': {
-      'mobileApp': {
-        'flutter': ['Flutter Development'] as List<String>,
-      },
-      'databases': ['MySQL', 'SQLite', 'Hive' , 'MongoDB'] as List<String>,
-      'misc': ['SuiteApp', 'Firebase'] as List<String>,
-    },
-    'funFact': 'There are two ways to write error-free programs; only the third one works' as String,
-  };
-```
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalrhmanreda" alt="abdalrhmanreda" /></a> </p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
