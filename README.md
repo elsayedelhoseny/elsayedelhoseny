@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elsayed Elhsoeny </h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
-<img align='center'src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300">
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalrhmanreda" alt="abdalrhmanreda" /></a> </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
 
