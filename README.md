@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elsayed Elhsoeny </h1>
+<h1 align="center">Hi there 👋, I'm Elsayed Elhoseny</h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&lines=Welcome+to+my+GitHub+Profile+🧑‍💻;What's+private+is+the+greatest.&pause=3000" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
