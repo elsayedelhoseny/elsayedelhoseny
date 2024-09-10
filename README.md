@@ -15,6 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
@@ -28,13 +31,13 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="adobe-xd" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Adobe_XD_CC_icon.png/512px-Adr_Adobe_XD_CC_icon.png" alt="adobe-xd" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/onesignal/onesignal-icon.svg" alt="onesignal" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/OneSignal_logo.png/1024px-OneSignal_logo.png" alt="onesignal" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
