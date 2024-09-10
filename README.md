@@ -31,13 +31,13 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Adobe_XD_CC_icon.png/512px-Adr_Adobe_XD_CC_icon.png" alt="adobe-xd" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Adobe_XD_CC_icon.png" alt="adobe-xd" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/OneSignal_logo.png/1024px-OneSignal_logo.png" alt="onesignal" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/OneSignal_logo.svg" alt="onesignal" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
@@ -46,6 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C549%20hrs%207%20mins-blue)
