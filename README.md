@@ -31,14 +31,14 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Adobe_XD_CC_icon.png" alt="adobe-xd" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="adobe-xd" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="40" height="40"/>
   </a>
- <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/OneSignal_logo.svg" alt="onesignal" width="40" height="40"/>
-</a>
+  <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/O/onesignal-logo-02371A29FB-seeklogo.com.png" alt="onesignal" width="40" height="40"/>
+  </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
@@ -46,6 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
