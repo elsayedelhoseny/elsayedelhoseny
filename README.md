@@ -34,10 +34,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe-xd" width="40" height="40"/>
 </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<a href="https://onesignal.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/OneSignal_logo.png" alt="onesignal" width="40" height="40"/>
 </a>
-  <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/O/onesignal-logo-02371A29FB-seeklogo.com.png" alt="onesignal" width="40" height="40"/>
-  </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
