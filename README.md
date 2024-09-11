@@ -30,6 +30,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="android-studio" width="40" height="40"/>
+</a>
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe-xd" width="40" height="40"/>
 </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
