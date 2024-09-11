@@ -29,7 +29,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-[<img align="left" alt="Android Studio" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" />]()
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe-xd" width="40" height="40"/>
 </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
