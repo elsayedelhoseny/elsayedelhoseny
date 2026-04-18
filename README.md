@@ -72,12 +72,3 @@ class ElsayedElhoseny {
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=elsayedel7oseny&color=54C5F8&style=for-the-badge&label=PROFILE+VIEWS)
-
-*⚡ Available for opportunities · Mansoura, EG 🇪🇬*
-
-</div>
