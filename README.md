@@ -26,6 +26,16 @@ class ElsayedElhoseny {
 ```
 
 ---
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elsayedel7oseny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-elhoseny-b4244a292/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005059607534)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elsayedelhoseny_/)
+
+</div>
 
 ## 🛠️ Skills
 
@@ -72,57 +82,6 @@ class ElsayedElhoseny {
 ![Futures](https://img.shields.io/badge/Futures-FFCA28?style=for-the-badge&logoColor=black)
 ![Isolates](https://img.shields.io/badge/Isolates-00B4AB?style=for-the-badge&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedel7oseny&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=54C5F8&icon_color=00B4AB&text_color=E6EDF3&bg_color=0D1117&border_color=30363D"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedel7oseny&layout=compact&langs_count=7&theme=github_dark&title_color=54C5F8&text_color=E6EDF3&bg_color=0D1117&border_color=30363D"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=elsayedel7oseny&theme=dark&background=0D1117&border=30363D&stroke=54C5F8&ring=00B4AB&fire=FFCA28&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=54C5F8&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elsayedel7oseny)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-elhoseny-b4244a292/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005059607534)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elsayedelhoseny_/)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=elsayedel7oseny&color=54C5F8&style=for-the-badge&label=PROFILE+VIEWS)
-
-*⚡ Available for opportunities · Mansoura, EG 🇪🇬*
-
-</div>
+ 
