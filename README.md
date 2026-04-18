@@ -61,31 +61,6 @@ class ElsayedElhoseny {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedel7oseny&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=54C5F8&icon_color=00B4AB&text_color=E6EDF3&bg_color=0D1117&border_color=30363D"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedel7oseny&layout=compact&langs_count=6&theme=github_dark&title_color=54C5F8&text_color=E6EDF3&bg_color=0D1117&border_color=30363D"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=elsayedel7oseny&theme=dark&background=0D1117&border=30363D&stroke=54C5F8&ring=00B4AB&fire=FFCA28&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=54C5F8&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/elsayedel7oseny/elsayedel7oseny/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
